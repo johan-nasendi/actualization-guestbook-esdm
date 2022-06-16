@@ -37,9 +37,6 @@
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
 
-    @stack('css-external')
-    {{-- Css Internal --}}
-    @stack('css-internal')
 </head>
 
 
@@ -70,7 +67,7 @@
     <!-- Right bar overlay-->
     <div class="rightbar-overlay"></div>
        <!-- jquery -->
-   <script src="{{asset('vendor/jquery/jquery-3.6.0.min.js')}}"></script>
+
 
     <!-- Vendor js -->
     <script src="{{asset('/vendor/assets/js/vendor.min.js')}}"></script>
@@ -89,10 +86,8 @@
     <!-- App js -->
     <script src="{{asset('/vendor/assets/js/app.min.js')}}"></script>
 
-    <!-- Init js-->
-    <script src="{{asset('/vendor/assets/js/pages/form-advanced.init.js')}}"></script>
+    <script src="{{asset('/vendor/assets/js/pages/dashboard-1.init.js')}}"></script>
 
     @include('sweetalert::alert')
-    @stack('js-external')
-    @stack('js-internal')
+
 </html>
