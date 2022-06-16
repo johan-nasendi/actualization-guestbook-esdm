@@ -14,14 +14,14 @@
         <!-- App favicon -->
         <link rel="shortcut icon" href="{{asset('/assets/img/logos.png')}}">
 		<!-- App css -->
-		<link href="{{asset('/vendor/assets/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css" id="bs-default-stylesheet" />
-		<link href="{{asset('/vendor/assets/css/app.min.css')}}" rel="stylesheet" type="text/css" id="app-default-stylesheet" />
+		<link href="{{asset('/admin/assets/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css" id="bs-default-stylesheet" />
+		<link href="{{asset('/admin/assets/css/app.min.css')}}" rel="stylesheet" type="text/css" id="app-default-stylesheet" />
 
-		<link href="{{asset('/vendor/assets/css/bootstrap-dark.min.css')}}" rel="stylesheet" type="text/css" id="bs-dark-stylesheet" />
-		<link href="{{asset('/vendor/assets/css/app-dark.min.css')}}" rel="stylesheet" type="text/css" id="app-dark-stylesheet" />
+		<link href="{{asset('/admin/assets/css/bootstrap-dark.min.css')}}" rel="stylesheet" type="text/css" id="bs-dark-stylesheet" />
+		<link href="{{asset('/admin/assets/css/app-dark.min.css')}}" rel="stylesheet" type="text/css" id="app-dark-stylesheet" />
 
 		<!-- icons -->
-		<link href="{{asset('/vendor/assets/css/icons.min.css')}}" rel="stylesheet" type="text/css" />
+		<link href="{{asset('/admin/assets/css/icons.min.css')}}" rel="stylesheet" type="text/css" />
 
     </head>
 
@@ -105,10 +105,10 @@
         <!-- end page -->
         @include('sweetalert::alert')
         <!-- Vendor js -->
-        <script src="{{asset('/vendor/assets/js/vendor.min.js')}}"></script>
+        <script src="{{asset('/admin/assets/js/vendor.min.js')}}"></script>
 
         <!-- App js -->
-        <script src="{{asset('/vendor/assets/js/app.min.js')}}"></script>
+        <script src="{{asset('/admin/assets/js/app.min.js')}}"></script>
 
     </body>
 </html>
