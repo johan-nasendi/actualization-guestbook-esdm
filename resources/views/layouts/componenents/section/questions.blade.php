@@ -8,13 +8,13 @@
             <header class="questions__header">
                 <i class="ri-add-line questions__icon"></i>
                 <h3 class="questions__item-title">
-                    My flowers are falling off or dying?
+                    Lorem ipsum dolor sit amet.
                 </h3>
             </header>
 
             <div class="questions__content">
                 <p class="questions__description">
-                    Plants are easy way to add color energy and transform your space but which planet is for you. Choosing the right plant.
+                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus deserunt molestias dolores distinctio. Expedita, soluta.
                 </p>
             </div>
         </div>
@@ -23,13 +23,13 @@
             <header class="questions__header">
                 <i class="ri-add-line questions__icon"></i>
                 <h3 class="questions__item-title">
-                    What causes leaves to become pale?
+                    Lorem ipsum dolor sit amet.
                 </h3>
             </header>
 
             <div class="questions__content">
                 <p class="questions__description">
-                    Plants are easy way to add color energy and transform your space but which planet is for you. Choosing the right plant.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit unde animi reprehenderit, harum officia error!
                 </p>
             </div>
         </div>
@@ -38,13 +38,13 @@
             <header class="questions__header">
                 <i class="ri-add-line questions__icon"></i>
                 <h3 class="questions__item-title">
-                    What causes brown crispy leaves?
+                    Lorem ipsum dolor sit amet.
                 </h3>
             </header>
 
             <div class="questions__content">
                 <p class="questions__description">
-                    Plants are easy way to add color energy and transform your space but which planet is for you. Choosing the right plant.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit quisquam ipsam minus quos? Consequuntur, culpa.
                 </p>
             </div>
         </div>
@@ -55,13 +55,13 @@
             <header class="questions__header">
                 <i class="ri-add-line questions__icon"></i>
                 <h3 class="questions__item-title">
-                    How do i choose a plant?
+                   Lorem ipsum dolor sit amet.
                 </h3>
             </header>
 
             <div class="questions__content">
                 <p class="questions__description">
-                    Plants are easy way to add color energy and transform your space but which planet is for you. Choosing the right plant.
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis mollitia, a perspiciatis odio inventore beatae.
                 </p>
             </div>
         </div>
@@ -70,13 +70,13 @@
             <header class="questions__header">
                 <i class="ri-add-line questions__icon"></i>
                 <h3 class="questions__item-title">
-                    How do I change the pots?
+                    Lorem ipsum dolor sit amet.
                 </h3>
             </header>
 
             <div class="questions__content">
                 <p class="questions__description">
-                    Plants are easy way to add color energy and transform your space but which planet is for you. Choosing the right plant.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, aliquid doloremque architecto quaerat natus neque?
                 </p>
             </div>
         </div>
@@ -85,13 +85,13 @@
             <header class="questions__header">
                 <i class="ri-add-line questions__icon"></i>
                 <h3 class="questions__item-title">
-                    Why are gnats flying around my plant?
+                   Lorem ipsum dolor sit amet.
                 </h3>
             </header>
 
             <div class="questions__content">
                 <p class="questions__description">
-                    Plants are easy way to add color energy and transform your space but which planet is for you. Choosing the right plant.
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et provident voluptate alias voluptates incidunt maiores.
                 </p>
             </div>
         </div>
