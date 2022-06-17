@@ -16,8 +16,8 @@
              </li>
 
              <li>
-                 <a href="">
-                     <i data-feather="users"></i>
+                 <a href="{{route('guest.index')}}">
+                     <i data-feather="book"></i>
                      @php
                      $countguestbook = DB::table('guests')->count();
                      @endphp

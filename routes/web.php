@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\GuestBookController;
+use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
@@ -34,11 +35,12 @@ Route::group(['prefix' => 'dasbor','middleware' => ['web','auth']] , function() 
     Route::get('/', [DashboardController::class, 'index'])->name('dashboard');
 
     Route::get('/buku-tamu', [GuestBookController::class, 'index'])->name('guest.index');
-    Route::get('/buku-tamu/{guest}/edit', [GuestBookController::class, 'index'])->name('guest.edit');
-    Route::get('/buku-tamu/{guest}/show', [GuestBookController::class, 'index'])->name('guest.show');
-    Route::delete('/buku-tamu/{guest}', [GuestBookController::class, 'index'])->name('guest.delete');
+    Route::get('/buku-tamu/{guest}/edit', [GuestBookController::class, 'edit'])->name('guest.edit');
+    Route::get('/buku-tamu/{guest}/show', [GuestBookController::class, 'show'])->name('guest.show');
+    Route::delete('/buku-tamu/{guest}', [GuestBookController::class, 'destroy'])->name('guest.delete');
 
 
+    Route::resource('/profil',ProfileController::class)->except('show','create','destory','store');
 
 
 });

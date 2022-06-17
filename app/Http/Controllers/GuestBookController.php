@@ -78,7 +78,7 @@ class GuestBookController extends Controller
     public function show($id)
     {
         $guestbook = GuestBook::where('slug', $id)->first();
-        return view('admin.responden.details',compact('guestbook'));
+        return view('admin.guest-book.details',compact('guestbook'));
     }
 
     /**

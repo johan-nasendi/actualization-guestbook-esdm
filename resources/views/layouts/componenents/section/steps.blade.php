@@ -8,7 +8,7 @@
             <div class="steps__card-number">01</div>
             <h3 class="steps__card-title">Mengisi Forum</h3>
             <p class="steps__card-description">
-                We have several varieties plants you can choose from.
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry..
             </p>
         </div>
 
@@ -16,7 +16,7 @@
             <div class="steps__card-number">02</div>
             <h3 class="steps__card-title">Validasi Data</h3>
             <p class="steps__card-description">
-                Once your order is set, we move to the next step which is the shipping.
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
             </p>
         </div>
 
@@ -24,7 +24,7 @@
             <div class="steps__card-number">03</div>
             <h3 class="steps__card-title">Kirim Data</h3>
             <p class="steps__card-description">
-                Our delivery process is easy, you receive the plant direct to your door.
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
             </p>
         </div>
     </div>

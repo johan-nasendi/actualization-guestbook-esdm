@@ -21,7 +21,7 @@
             <div class="dropdown-menu dropdown-menu-right profile-dropdown ">
 
                 <!-- item-->
-                <a href="#" class="dropdown-item notify-item">
+                <a href="{{route('profil.index')}}" class="dropdown-item notify-item">
                     <i class="fe-user"></i>
                     <span>Profil</span>
                 </a>
